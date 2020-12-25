@@ -18,6 +18,7 @@
 		7F5F410F2592360800BE5D17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F5F410D2592360800BE5D17 /* LaunchScreen.storyboard */; };
 		7F5F4117259239FA00BE5D17 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F5F4116259239FA00BE5D17 /* Book.swift */; };
 		7F72F3FB2594C9B9004DDFCA /* NewBookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F72F3FA2594C9B9004DDFCA /* NewBookViewController.swift */; };
+		7F72F3FD2595B58F004DDFCA /* LibraryHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7F72F3FC2595B58F004DDFCA /* LibraryHeaderView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		7F5F41102592360800BE5D17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7F5F4116259239FA00BE5D17 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		7F72F3FA2594C9B9004DDFCA /* NewBookViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBookViewController.swift; sourceTree = "<group>"; };
+		7F72F3FC2595B58F004DDFCA /* LibraryHeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LibraryHeaderView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				7F5F41022592360600BE5D17 /* AppDelegate.swift */,
 				7F5F41042592360600BE5D17 /* SceneDelegate.swift */,
 				7F5F41062592360600BE5D17 /* LibraryViewController.swift */,
+				7F72F3FC2595B58F004DDFCA /* LibraryHeaderView.xib */,
 				7F72F3FA2594C9B9004DDFCA /* NewBookViewController.swift */,
 				7F5526BD2594999F008C4A6D /* BookCell.swift */,
 				7F5526B92593A65C008C4A6D /* Library.swift */,
@@ -143,6 +146,7 @@
 				7F5F410F2592360800BE5D17 /* LaunchScreen.storyboard in Resources */,
 				7F5F410C2592360800BE5D17 /* Assets.xcassets in Resources */,
 				7F5F410A2592360600BE5D17 /* Main.storyboard in Resources */,
+				7F72F3FD2595B58F004DDFCA /* LibraryHeaderView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
